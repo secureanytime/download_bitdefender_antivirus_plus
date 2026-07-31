@@ -1,4 +1,4 @@
-project = 'Download Bitdefender Antivirus plus'
+project = 'communities-anywhere'
 copyright = '2026'
 author = 'Admin'
 
