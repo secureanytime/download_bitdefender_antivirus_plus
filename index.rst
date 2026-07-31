@@ -1,6 +1,7 @@
 Download Bitdefender Antivirus plus for Windows/Mac: Installation, Activation & Troubleshooting Tips 
 =====================================================================================================
 
+
 Bitdefender Antivirus Plus protects your PC from viruses, ransomware and phishing links. This article covers the full **Bitdefender Antivirus Plus download** process, step by step. You will also learn how to install it, activate your license, and fix common setup errors. 
 
 .. raw:: html
